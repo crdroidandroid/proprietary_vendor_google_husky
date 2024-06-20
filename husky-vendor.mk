@@ -106,6 +106,7 @@ PRODUCT_PACKAGES += \
     RilConfigService \
     ShannonIms \
     ShannonRcs \
+    TurboAdapter \
     grilservice \
     ril-extension \
     libhwinfo \
