@@ -233,9 +233,9 @@ android_app_import {
 }
 
 android_app_import {
-	name: "DeviceIntelligenceNetworkPrebuilt-v.U.14.playstore",
+	name: "DeviceIntelligenceNetworkPrebuilt",
 	owner: "google",
-	apk: "proprietary/product/priv-app/DeviceIntelligenceNetworkPrebuilt-v.U.14.playstore/DeviceIntelligenceNetworkPrebuilt-v.U.14.playstore.apk",
+	apk: "proprietary/product/priv-app/DeviceIntelligenceNetworkPrebuilt/DeviceIntelligenceNetworkPrebuilt.apk",
 	preprocessed: true,
 	presigned: true,
 	dex_preopt: {
@@ -246,9 +246,9 @@ android_app_import {
 }
 
 android_app_import {
-	name: "DevicePersonalizationPrebuiltPixel2023-v.U.14.playstore",
+	name: "DevicePersonalizationPrebuiltPixel2023",
 	owner: "google",
-	apk: "proprietary/product/priv-app/DevicePersonalizationPrebuiltPixel2023-v.U.14.playstore/DevicePersonalizationPrebuiltPixel2023-v.U.14.playstore.apk",
+	apk: "proprietary/product/priv-app/DevicePersonalizationPrebuiltPixel2023/DevicePersonalizationPrebuiltPixel2023.apk",
 	preprocessed: true,
 	presigned: true,
 	dex_preopt: {
